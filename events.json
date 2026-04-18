@@ -1,0 +1,147 @@
+[
+  {
+    "time": 0.03,
+    "event": "lane_departure",
+    "direction": "right",
+    "severity": "high",
+    "offset_px": -77
+  },
+  {
+    "time": 2.07,
+    "event": "lane_departure",
+    "direction": "right",
+    "severity": "high",
+    "offset_px": -161
+  },
+  {
+    "time": 3.23,
+    "event": "tailgating",
+    "severity": "medium",
+    "track_id": 2,
+    "ratio": 0.252
+  },
+  {
+    "time": 4.33,
+    "event": "lane_departure",
+    "direction": "right",
+    "severity": "medium",
+    "offset_px": -52
+  },
+  {
+    "time": 6.43,
+    "event": "tailgating",
+    "severity": "medium",
+    "track_id": 2,
+    "ratio": 0.252
+  },
+  {
+    "time": 8.1,
+    "event": "lane_departure",
+    "direction": "left",
+    "severity": "high",
+    "offset_px": 160
+  },
+  {
+    "time": 9.43,
+    "event": "tailgating",
+    "severity": "medium",
+    "track_id": 2,
+    "ratio": 0.294
+  },
+  {
+    "time": 10.87,
+    "event": "lane_departure",
+    "direction": "left",
+    "severity": "medium",
+    "offset_px": 54
+  },
+  {
+    "time": 12.43,
+    "event": "tailgating",
+    "severity": "high",
+    "track_id": 2,
+    "ratio": 0.512
+  },
+  {
+    "time": 13.17,
+    "event": "lane_departure",
+    "direction": "right",
+    "severity": "medium",
+    "offset_px": -65
+  },
+  {
+    "time": 15.17,
+    "event": "lane_departure",
+    "direction": "right",
+    "severity": "high",
+    "offset_px": -106
+  },
+  {
+    "time": 17.67,
+    "event": "lane_departure",
+    "direction": "right",
+    "severity": "medium",
+    "offset_px": -55
+  },
+  {
+    "time": 18.63,
+    "event": "red_light_violation",
+    "severity": "high",
+    "confidence": 0.5106815099716187
+  },
+  {
+    "time": 19.67,
+    "event": "lane_departure",
+    "direction": "left",
+    "severity": "high",
+    "offset_px": 160
+  },
+  {
+    "time": 21.67,
+    "event": "lane_departure",
+    "direction": "right",
+    "severity": "high",
+    "offset_px": -99
+  },
+  {
+    "time": 24.17,
+    "event": "lane_departure",
+    "direction": "right",
+    "severity": "high",
+    "offset_px": -173
+  },
+  {
+    "time": 26.17,
+    "event": "lane_departure",
+    "direction": "left",
+    "severity": "medium",
+    "offset_px": 71
+  },
+  {
+    "time": 28.17,
+    "event": "lane_departure",
+    "direction": "right",
+    "severity": "medium",
+    "offset_px": -52
+  },
+  {
+    "time": 30.17,
+    "event": "lane_departure",
+    "direction": "left",
+    "severity": "high",
+    "offset_px": 143
+  },
+  {
+    "time": 31.63,
+    "event": "red_light_violation",
+    "severity": "high",
+    "confidence": 0.8609623908996582
+  },
+  {
+    "time": 32.2,
+    "event": "lane_departure",
+    "direction": "left",
+    "severity": "high",
+    "offset_px": 90
+  }
+]
