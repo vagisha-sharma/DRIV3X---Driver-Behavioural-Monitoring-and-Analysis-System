@@ -1,10 +1,19 @@
 # Virtual environment
 venv/
+.venv/
 
 # Python cache
 __pycache__/
-*.pyc
+*.py[cod]
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.env.*
